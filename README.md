@@ -87,8 +87,7 @@ The system measures pH, dissolved oxygen, and water temperature using dedicated 
 # 🧪 Experimental Setup
 
 The complete hardware setup, calibration procedures, wiring connections, and testing methodology are available in the setup guide.
-
-📄 **[Experimental Setup Guide](Hardware/setup%20guide.pdf)**
+📄 **[Download Experimental Setup Guide](https://raw.githubusercontent.com/Akhilkumar8137/Aquasentinals/main/Hardware/setup%20guide.pdf)**
 
 ---
 
@@ -141,25 +140,6 @@ The STM32 performs the following tasks:
 5. Sends data to the LoRaWAN Gateway.
 6. ChirpStack receives and decodes the payload.
 7. Grafana visualizes the received data.
-
----
-
-# 📂 Project Structure
-
-```
-Aquasentinals/
-│
-├── README.md
-├── docs/
-│   └── setup.pdf
-├── Images/
-│   ├── hardware_setup.jpg
-│   ├── circuit_diagram.png
-│   ├── chirpstack_dashboard.png
-│   └── grafana_dashboard.png
-├── Hardware/
-└── Software/
-```
 
 ---
 
