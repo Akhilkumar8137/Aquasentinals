@@ -1,0 +1,41 @@
+/*
+ * do_sensor.h
+ *
+ *  Created on: Jan 6, 2026
+ *      Author: icfoss
+ */
+
+#ifndef APPLICATION_DO_SENSOR_DO_SENSOR_H_
+#define APPLICATION_DO_SENSOR_DO_SENSOR_H_
+
+#include "main.h"
+/* Public functions */
+
+
+/* ================= DO LOOKUP TABLE =================
+ * Dissolved Oxygen (mg/L) vs Temperature (°C)
+ * Typical freshwater values at 1 atm
+ *
+ * Index = temperature (°C)
+ * Value = DO saturation (mg/L)
+ */
+static const uint16_t DO_Table[41] = {
+  14460, 14220, 13820, 13440, 13090, 12740, 12420, 12110, 11810, 11530,
+  11260, 11010, 10770, 10530, 10300, 10080, 9860, 9660, 9460, 9270,
+  9080, 8900, 8730, 8570, 8410, 8250, 8110, 7960, 7820, 7690,
+  7560, 7430, 7300, 7180, 7070, 6950, 6840, 6730, 6630, 6530, 6410
+};
+
+/* ================= Public API ================= */
+
+
+/* APPLICATION_DO_SENSOR_DO_SENSOR_H_ */
+
+void Sensors_Init(void);
+
+float Sensors_ReadTemperature(void);
+float Sensors_ReadVoltage(void);
+float Sensors_ReadDO(void);
+
+
+#endif /* APPLICATION_DO_SENSOR_DO_SENSOR_H_ */

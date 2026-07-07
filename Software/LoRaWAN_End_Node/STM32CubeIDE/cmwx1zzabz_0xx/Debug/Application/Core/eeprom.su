@@ -1,0 +1,8 @@
+/home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/eeprom.c:15:26:EEPROM_Write_Internal	32	static
+/home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/eeprom.c:40:19:userEEPROM_Write	16	static
+/home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/eeprom.c:56:6:EEPROM_Read	8	static
+/home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/eeprom.c:67:6:userEEPROM_Read	8	static
+/home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/eeprom.c:79:10:userEEPROM_GetFreeStart	0	static
+/home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/eeprom.c:97:19:FaultEEPROM_Write	16	static
+/home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/eeprom.c:108:6:FaultEEPROM_Read	8	static
+/home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/eeprom.c:119:19:ClearFaultLog	56	static

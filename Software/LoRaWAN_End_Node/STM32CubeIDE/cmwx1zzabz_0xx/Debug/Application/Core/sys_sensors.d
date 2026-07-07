@@ -1,0 +1,5 @@
+Application/Core/sys_sensors.o: \
+ /home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/sys_sensors.c \
+ ../../../Core/Inc/sys_conf.h ../../../Core/Inc/sys_sensors.h
+../../../Core/Inc/sys_conf.h:
+../../../Core/Inc/sys_sensors.h:

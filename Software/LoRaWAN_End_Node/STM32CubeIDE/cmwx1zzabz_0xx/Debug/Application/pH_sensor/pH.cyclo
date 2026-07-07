@@ -1,0 +1,9 @@
+../Application/pH_sensor/pH.c:107:13:delay_us	2
+../Application/pH_sensor/pH.c:39:13:DS18B20_SetOutput	1
+../Application/pH_sensor/pH.c:49:13:DS18B20_SetInput	1
+../Application/pH_sensor/pH.c:113:16:DS18B20_Reset	1
+../Application/pH_sensor/pH.c:129:13:DS18B20_Write	3
+../Application/pH_sensor/pH.c:151:16:DS18B20_Read	3
+../Application/pH_sensor/pH.c:57:7:DS18B20_ReadTemp	3
+../Application/pH_sensor/pH.c:80:6:Get_pH_Measurement	3
+../Application/pH_sensor/pH.c:175:6:pH_Init	1

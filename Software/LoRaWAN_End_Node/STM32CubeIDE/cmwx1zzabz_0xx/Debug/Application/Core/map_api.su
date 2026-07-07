@@ -1,0 +1,4 @@
+/home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/map_api.c:15:9:map_int32	24	static
+/home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/map_api.c:40:10:map_uint32	16	static
+/home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/map_api.c:53:7:map_float	32	static
+/home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/map_api.c:64:8:map_double	40	static

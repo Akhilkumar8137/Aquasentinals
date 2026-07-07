@@ -1,0 +1,5 @@
+/home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/adc_if.c:100:6:SYS_InitMeasurement	0	static
+/home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/adc_if.c:111:6:SYS_DeInitMeasurement	0	static
+/home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/adc_if.c:169:10:ADC_ReadChannels	24	static
+/home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/adc_if.c:139:10:SYS_GetBatteryLevel	8	static
+/home/icfoss/STM32CubeIDE/dissolved_oxygen_sensor/c-1_dev_lorawan_end_node_firmware_v2.1-main(3)/c-1_dev_lorawan_end_node_firmware_v2.1-main/Software/LoRaWAN_End_Node/Core/Src/adc_if.c:118:9:SYS_GetTemperatureLevel	24	static
