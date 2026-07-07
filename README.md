@@ -88,7 +88,7 @@ The system measures pH, dissolved oxygen, and water temperature using dedicated 
 
 The complete hardware setup, calibration procedures, wiring connections, and testing methodology are available in the setup guide.
 
-📄 **[Experimental Setup Guide](Hardware/setupguide.pdf)**
+📄 **[Experimental Setup Guide](Hardware/setup%20guide.pdf)**
 
 ---
 
@@ -167,7 +167,7 @@ Aquasentinals/
 
 ## Circuit Diagram
 
-![Circuit Diagram](Hardware/circuit_diagram.png)
+![Circuit Diagram](Hardware/circuit%20diagram.png)
 
 ---
 
