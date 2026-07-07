@@ -88,7 +88,7 @@ The system measures pH, dissolved oxygen, and water temperature using dedicated 
 
 The complete hardware setup, calibration procedures, wiring connections, and testing methodology are available in the setup guide.
 
-📄 **[Experimental Setup Guide](Hardware/setup guide.pdf)**
+📄 **[Experimental Setup Guide](Hardware/setupguide.pdf)**
 
 ---
 
